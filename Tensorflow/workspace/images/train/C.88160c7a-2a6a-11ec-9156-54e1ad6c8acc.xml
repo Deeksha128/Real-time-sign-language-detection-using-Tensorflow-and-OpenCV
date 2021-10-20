@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>C.88160c7a-2a6a-11ec-9156-54e1ad6c8acc.jpg</filename>
+	<path>C:\Users\Rathore\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\C.88160c7a-2a6a-11ec-9156-54e1ad6c8acc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>96</ymin>
+			<xmax>630</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
